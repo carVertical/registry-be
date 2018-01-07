@@ -1,0 +1,54 @@
+[
+  {
+    "vin": "SALLAAA146A396338",
+    "type": "odometer",
+    "timestamp": 1348704000,
+    "value": 183983,
+    "unit": "km"
+  },
+  {
+    "vin": "SALLAAA146A396338",
+    "type": "odometer",
+    "timestamp": 1412726400,
+    "value": 226472,
+    "unit": "km"
+  },
+  {
+    "vin": "SALLAAA146A396338",
+    "type": "odometer",
+    "timestamp": 1475539200,
+    "value": 265854,
+    "unit": "km"
+  },
+  {
+    "vin": "SALLAAA146A396338",
+    "type": "odometer",
+    "timestamp": 1476057600,
+    "value": 266106,
+    "unit": "km"
+  },
+  {
+    "vin": "SALLAAA146A396338",
+    "type": "pti",
+    "timestamp": 1476057600,
+    "valid_until": 1538956800
+  },
+  {
+    "vin": "SALLAAA146A396338",
+    "type": "tech_spec",
+    "timestamp": 1515198674,
+    "manufacturer": "Land Rover",
+    "model": "Discovery 3",
+    "model_year": 2006,
+    "series": "L319",
+    "body_type": "SUV",
+    "fuel_type": "Diesel",
+    "engine_capacity_ccm": 2720,
+    "manufacturer_country": "United Kingdom",
+    "engine_power_kw": 140,
+    "gearbox_type": "automatic",
+    "gearbox": "6-Speed Automatic 6HP26",
+    "number_of_cylinder": 6,
+    "number_of_doors": 4
+  }
+]
